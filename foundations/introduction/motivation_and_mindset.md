@@ -39,7 +39,7 @@ To learn more about the growth mindset, check out these resources:
 
 *   [Believe you can get better](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)
 *   [Grit](https://ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
-*   [You can learn anything](https://www.khanacademy.org/talks-and-interviews/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart)
+*   [You can learn anything](https://www.khanacademy.org/college-careers-more/talks-and-interviews/talks-and-interviews-unit/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart)
 
 ### The learning process
 
@@ -58,6 +58,7 @@ You can practice this method of learning by helping others in our community.
 *   To learn more about the best ways to learn, [learning how to learn on Coursera](https://www.coursera.org/learn/learning-how-to-learn) is highly recommended.
 
 *   The Ruby Rogues have a [podcast on How to Learn](https://topenddevs.com/podcasts/ruby-rogues/episodes/131-rr-how-to-learn), which should be motivational and useful to you, so check it out for some useful thoughts on learning.
+*    100 Days of Code is a challenge that new developers often use to track their coding journey and showcase their work. Consider joining by checking out [their website](https://www.100daysofcode.com/) if you are looking for a way to stay motivated and inspire other developers.
 
 ### What to do when you're stuck
 
